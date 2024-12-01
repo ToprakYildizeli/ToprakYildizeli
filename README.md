@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ToprakYildizeli
-- 👀 I’m interested in learning everything
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach me toprak.yildizeli@ug.bilkent.edu.tr
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Toprak Yildizeli
+- 👀 I’m interested in learning maths and coding
+- 🌱 I’m currently learning Computer Science in Bilkent University, Ankara,mTurkey.
+- 📫 How to reach me toprak.yildizeli@ug.bilkent.edu.\
 
 <!---
 ToprakYildizeli/ToprakYildizeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
